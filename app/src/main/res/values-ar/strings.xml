@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mytp2</string>
+    <string name="nom">الاسم  </string>
+    <string name="mdp">كلمة المرور   </string>
+    <string name="identifier">الدخول </string>
+
+    <string name="retour">رجوع</string>
+    <string name="info">معلومات الحساب </string>
+</resources>

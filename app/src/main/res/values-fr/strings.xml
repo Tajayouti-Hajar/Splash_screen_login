@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mytp2</string>
+    <string name="nom">Nom  </string>
+    <string name="mdp">Mot de passe   </string>
+    <string name="identifier">S identifier</string>
+
+    <string name="retour">Retour</string>
+    <string name="info">Les informations du compte</string>
+</resources>
